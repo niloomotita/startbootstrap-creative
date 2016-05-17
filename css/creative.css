@@ -42,6 +42,7 @@ p {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 20px;
+  padding-top: 20px;
   
 }
 .section-list{
@@ -413,7 +414,7 @@ body {
 }
 .section-img{
   padding-top: 20px;
-  
+
 }
 .container{
   padding: 0px;
@@ -426,6 +427,19 @@ body {
 }
 #kieli{
   background-color: #6D5264;
+}
+#miksi-taival{
+  margin-top: 20px;
+}
+#tapahtumat{
+  background-color: #E3F0EE;
+}
+
+#facebook{
+  color: #1679CE;
+
+}
+
 }
 
 }
