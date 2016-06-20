@@ -58,8 +58,9 @@ p {
   background-color: #446730;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color: #446730;
   color: white;
+
 }
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
@@ -425,27 +426,46 @@ body {
   margin: 20px;
 }
 #draama{
-  background-color: #7AAB90;
+  background-color: #6A9552;
 }
 #kieli{
-  background-color: #6D5264;
+  background-color: #23813F;
 }
 #miksi-taival{
   margin-top: 20px;
 }
 #tapahtumat{
-  background-color: #E3F0EE;
+  background-color: #8AB674;
 }
 
 #facebook{
-  color: #1679CE;
+  
+  padding-left: 10px;
+  
 
 }
 #leaf{
   padding-right: 10px;
 }
 #joogataival{
+  background-color: #446730;
+}
+#jooga{
   background-color: #909E25;
+}
+li{
+  font-size: 15px;
+}
+#facebook-icon{
+  background-color: white;
+  color: black;
+}
+#insta{
+  padding-left: 10px;
+}
+#insta-icon{
+  color: black;
+  background-color: white;
 }
 
 }
