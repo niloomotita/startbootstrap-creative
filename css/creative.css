@@ -442,11 +442,13 @@ body {
 #facebook{
   
   padding-left: 10px;
+  color: black;
   
 
 }
 #leaf{
   padding-right: 10px;
+  margin-left: -30px;
 }
 #joogataival{
   background-color: #446730;
@@ -460,15 +462,41 @@ li{
 #facebook-icon{
   background-color: white;
   color: black;
+  padding-top: 10px;
 }
 #insta{
   padding-left: 10px;
+  color: black;
 }
 #insta-icon{
   color: black;
   background-color: white;
+  padding-top: 10px;
 }
+#bodhi{
+  margin-top: -10px;
+}
+#saija{
+  margin-top: -100px; 
+  margin-left:0px;
+}
+.call{
+  font-size: 15px;
+  padding-left: 5px;
+}
+#profile{
+  margin-top: -50px;
 
+}
+#row-space{
+  margin-bottom: 10px;
+}
+.header-content-inner{
+  
+}
+#logo{
+  margin-top: 100px;
+}
 }
 
 }
