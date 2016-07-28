@@ -45,4 +45,11 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
+    // Fixing portfolio jump
+    $('.portfolio-box').on('click', function(event){
+    event.preventDefault();
+    });
+
 })(jQuery); // End of use strict
+
+
