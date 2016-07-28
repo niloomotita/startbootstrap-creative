@@ -546,7 +546,9 @@ li{
   width: 80%; 
 }
 
-
+#logo{
+  margin-top:-50px;
+}
 
 }
 
