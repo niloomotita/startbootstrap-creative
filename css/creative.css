@@ -433,7 +433,7 @@ body {
   background-color: #23813F;
 }
 #miksi-taival{
-  margin-top: 100px;
+  margin-top: 150px;
 }
 #tapahtumat{
   background-color: #8AB674;
@@ -497,11 +497,41 @@ li{
 }
 
 #intro{
-  margin-top: 25vh;
+  margin-top: 35vh;
 }
-#taustaa1{
-  margin-top: 75px;
+#taustaa2{
+  margin-top: 50px;
 }
+#logo-taustaa{
+  margin-top: -40px;
+}
+#paragraph-taustaa{
+  margin-left: -40px;
+}
+
+#leaf-taustaa{
+  padding-right: 10px;
+  margin-left: -30px;
+  color: #446730;
+}
+#first-question{
+  background-color: #446730;
+}
+#second-question{
+  background-color: #909E25;
+}
+#third-question{
+  background-color: #6A9552;
+}
+#fourth-question{
+  background-color: #23813F;
+}
+.question{
+  color: white;
+  padding: 60px;
+  font-size: 30px;
+}
+
 }
 
 }
