@@ -486,7 +486,7 @@ li{
   padding-left: 5px;
 }
 #profile{
-  margin-top: -50px;
+  
 
 }
 #row-space{
@@ -503,7 +503,7 @@ li{
   margin-top: 50px;
 }
 #logo-taustaa{
-  margin-top: -40px;
+  margin-top: -20px;
 }
 #paragraph-taustaa{
   margin-left: -40px;
@@ -549,7 +549,14 @@ li{
 #logo{
   margin-top:-50px;
 }
-
+@media(max-width:700px){
+  #logo{
+  margin-top:0px;
+}
+}
+#ajankohtaista{
+  margin-top: 40px;
+}
 }
 
 }
