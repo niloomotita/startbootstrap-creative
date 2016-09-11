@@ -432,7 +432,7 @@ body {
   background-color: #23813F;
 }
 #miksi-taival{
-  margin-top: 150px;
+  margin-top: 90px;
 }
 #tapahtumat{
   background-color: #8AB674;
@@ -501,12 +501,7 @@ li{
 #taustaa2{
   margin-top: 50px;
 }
-#logo-taustaa{
-  margin-top: -20px;
-}
-#paragraph-taustaa{
-  margin-left: -40px;
-}
+
 
 #leaf-taustaa{
   padding-right: 10px;
@@ -565,7 +560,13 @@ li{
   margin-top: 5px;  
   border:1px solid #446730;
 }
-
+.row{
+  margin-top: 20px;
+}
+.questionbox{
+  margin: 40px;
+}
+}
 }
 
 }

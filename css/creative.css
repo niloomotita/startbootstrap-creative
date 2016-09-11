@@ -561,6 +561,11 @@ li{
   margin-top: 10px;
 
 }
+.flag{
+  width: 20px;
+  margin-top: 5px;  
+  border:1px solid #446730;
+}
 }
 
 }
