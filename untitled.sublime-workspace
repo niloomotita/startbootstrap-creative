@@ -3,6 +3,66 @@
 	{
 		"selected_items":
 		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			]
 		]
 	},
 	"buffers":
@@ -38,18 +98,34 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/niloofar/saija/startbootstrap-creative/css",
+		"/Users/niloofar/saija/startbootstrap-creative/img",
+		"/Users/niloofar/saija/startbootstrap-creative/img/portfolio",
+		"/Users/niloofar/saija/startbootstrap-creative/js"
+	],
 	"file_history":
 	[
+		"/Users/niloofar/saija/startbootstrap-creative/index.html",
+		"/Users/niloofar/saija/startbootstrap-creative/css/creative.css",
+		"/Users/niloofar/saija/startbootstrap-creative/js/creative.js",
+		"/Users/niloofar/saija/startbootstrap-creative/info.html",
+		"/Users/niloofar/saija/startbootstrap-creative/js/creative.min.js",
+		"/Users/niloofar/Desktop/weatherapp.html",
+		"/Users/niloofar/Downloads/how-is-the-weather/index.html",
+		"/Users/niloofar/Desktop/manifest.json"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/Users/niloofar/saija/startbootstrap-creative/img"
 		]
 	},
 	"find_state":
@@ -57,6 +133,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"logo",
+			"project-name",
+			"media",
+			"fa",
+			"fa ",
+			"hr",
+			"image",
+			"img",
+			"#eb3812",
+			"#f05f40"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -64,6 +150,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"#446730"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -81,11 +168,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -118,7 +205,7 @@
 	"project": "untitled.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -156,7 +243,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 208.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
