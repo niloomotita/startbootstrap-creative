@@ -10,7 +10,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
   border-color: #446730;
@@ -52,8 +52,14 @@ p {
   color:#446730;
   font-size: 30px;
   padding: 20px;
-  margin-top: 20%;
+  margin-top: 35vh;
 }
+@media (max-width: 600px) {
+  #intro {
+    font-size: 20px;
+    margin-top: 0;
+  }
+  }
 .bg-primary {
   background-color: #446730;
 }
@@ -441,8 +447,8 @@ body {
 
 #facebook{
   
-  padding-left: 10px;
-  color: black;
+  color: white;
+
   
 
 }
@@ -465,8 +471,8 @@ li{
   padding-top: 10px;
 }
 #insta{
-  padding-left: 10px;
-  color: black;
+ 
+  color: white;
 }
 #insta-icon{
   color: black;
@@ -494,10 +500,6 @@ li{
 }
 .header-content-inner{
   margin-top: 15vh;
-}
-
-#intro{
-  margin-top: 35vh;
 }
 #taustaa2{
   margin-top: 50px;
