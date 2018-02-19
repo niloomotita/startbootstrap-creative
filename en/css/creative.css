@@ -582,3 +582,56 @@ li{
   #metsahallitus{
     margin-top: 63px;
   }
+.form{
+  text-align: left;
+  border: 2px solid #446630;
+  padding: 20px;
+}
+.display-block{
+  display: block;
+}
+.input{
+  padding: 10px;
+  width:40%;
+}
+.text-area{
+  padding: 10px;
+  width: 80%;
+  resize: none;
+}
+textarea {
+  resize: none;
+}
+.send-btn:hover{
+  background-color: #6A9552
+}
+.send-btn{
+  padding: 5px 20px;
+  margin-top: 10px;
+  background-color: #446630;
+  color:white;
+  font-size: 15px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+.submit-msg{
+  width:80%;
+}
+.newsletter{
+  margin-top: 20px;
+}
+@media(max-width:700px){
+  .input{
+    padding: 10px;
+    width:70%;
+    border: 1px solid  #446630;
+  }
+  .text-area{
+    padding: 10px;
+    width: 95%;
+    border: 1px solid  #446630;
+    resize: none;
+  }
+}
+
+

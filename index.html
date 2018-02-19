@@ -392,6 +392,35 @@
                     <hr class="primary">
                 </div>
             </div>
+            <div class="row form">
+                <div class="col-lg-12 text-center  ">
+                    <h3 class="section-heading">YHTEYDENOTTOLOMAKE</h3>
+                    <p><small>Varaa retki tai kysy lisätietoja</small></p>
+                    <form action="https://formspree.io/niloofar.motamed@gmail.com" method="POST"  class="text-left">
+                        <label for="name" class="display-block">Nimi:</label>
+                        <input type="text" name="name" id="name" class="display-block input"required>
+
+                        <label for="email" class="display-block">Sähköposti:</label>
+                        <input type="email" name="_replyto" id="email" class="display-block input" required>
+                        <div>
+                            <label for="msg" class="display-block">Viesti:</label>
+                            <textarea type="text" name="massage" id="msg" class="display-block text-area"  ></textarea>
+                        </div>
+                        <div class="newsletter">
+                                <input type="checkbox" name="newsletter" id="newsletter">
+                                <label for="newsletter">Tilaa uutiskirje sähköpostiisi</label>
+                                <div>
+                                        <h4><small> Saat vastauksena kolme rentouttavaa luontoyhteysharjoitusta! Uutiskirje ilmestyy noin 4 kertaa vuodessa ja voit perua sen milloin vain.</small></h4>
+                                </div>
+                        </div>
+                        
+                        
+                        <input type="submit" value="Send" class="send-btn">
+                        <input type="hidden" name="_next" value="http://localhost:8080/form-sent.html" />
+                    </form>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="col-lg-3  col-sm-4 col-lg-offset-1      ">
                     <img src="img/saija.jpg" alt="river" class="img-responsive  img-circle " id="profile">
